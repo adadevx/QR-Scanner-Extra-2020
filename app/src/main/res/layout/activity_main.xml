@@ -29,7 +29,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         app:adSize="MEDIUM_RECTANGLE"
-        app:adUnitId="ca-app-pub-6650612913041239/4825559267"
+        app:adUnitId=""
         app:layout_constraintBottom_toTopOf="@+id/navigation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
