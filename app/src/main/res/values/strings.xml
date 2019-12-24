@@ -1,6 +1,6 @@
 <resources>
     <!--Activity labels -->
-    <string name="app_name">SecScanQR</string>
+    <string name="app_name">QR Scanner</string>
     <string name="activity_generate">QR-Code Generator</string>
     <string name="activity_history">History</string>
     <string name="activity_history_details">History</string>
@@ -11,7 +11,7 @@
     <!-- MainActivity-->
     <string name="title_format">Code format:</string>
     <string name="title_information">Code information:</string>
-    <string name="default_text_main_activity">Press on the "Scan" Button to scan a QR-Code/Barcode</string>
+    <string name="default_text_main_activity">Press on the "Scan" Button to scan a\nQR-Code/Barcode</string>
     <string name="send_to">Share with:</string>
     <string name="xzing_label">Activate the flashlight using the volume keys</string>
     <string name="notice_clipoard">Copied to Clipboard</string>
@@ -29,8 +29,8 @@
     <string name="title_copy">Copy</string>
     <string name="title_share">Share</string>
     <string name="title_reset">Reset</string>
-    <string name="title_openInWeb">Open in Web</string>
-    <string name="title_createContact">Create Contact</string>
+    <string name="title_openInWeb">Search Web</string>
+    <string name="title_createContact">Add Contact</string>
 
     <!-- GenerateActivity-->
     <string name="btn_save">Save</string>
@@ -125,11 +125,11 @@
     <!-- AboutDialog-->
     <string name="about_dialog">About</string>
     <string name="copyright">Copyright Notice</string>
-    <string name="copyright_holder">Copyright© 2017-2019 T-Dankworth</string>
-    <string name="github_link">Find SecScanQR on Github: https://github.com/Fr4gorSoftware/SecScanQR</string>
+    <string name="copyright_holder">x</string>
+    <string name="github_link">x</string>
     <string name="license">This App was created under the terms of the GNU General Public License. For more information please check out the link below: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
-    <string name="logo_designer">The App logo was created by s-yous: https://github.com/s-yous</string>
-    <string name="translator">English translation by Thore Dankworth: https://github.com/Fr4gorSoftware</string>
+    <string name="logo_designer">x</string>
+    <string name="translator">x</string>
     <string name="zxing_license">The App uses the ZXING Library which is under the Apache 2.0 license. For more information please check out the link below: http://www.apache.org/licenses/LICENSE-2.0</string>
     <!-- Strings related to Settings -->
     <string name="title_activity_settings">Settings</string>

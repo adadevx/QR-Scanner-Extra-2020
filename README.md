@@ -1,22 +1,14 @@
-# SecScanQR
-![Logo](https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/SecScanQR%20-%20Logotype.png)
+# QR Scanner Extra 2020
 
-The QR-Code Scanner/Generator that cares about your privacy, based on [XZing Library](https://github.com/zxing/zxing).
-
-
-## Download
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-  alt="Get it on F-Droid"
-  height="80">](https://f-droid.org/packages/de.t_dankworth.secscanqr/)
+The QR-Code Scanner/Generator, based on 
+[SecScanQR Library](https://github.com/Fr4gorSoftware/SecScanQR).
+[XZing Library](https://github.com/zxing/zxing).
 
 ## Features
   - Scan QR-Codes, Barcodes and many more formats
   - Scanned QR-Codes can be shared with friends and do a web search with the information from the QR-Code
   - Generate QR-Codes, Barcodes and many more formats
   - History
-  
-### Upcoming Features
-[List of upcoming Features](https://github.com/Fr4gorSoftware/SecScanQR/wiki/Upcoming-Features)
 
 ### Needed Permissions
   - CAMERA ACCESS
@@ -36,21 +28,8 @@ The QR-Code Scanner/Generator that cares about your privacy, based on [XZing Lib
   - Portuguese (last change: 1.1.9): [Andre-Gloria](https://github.com/Andre-Gloria)
   - Basque (Last change: 1.1.6): [Aitor Beriain](https://github.com/beriain)
   
-  
-## Donating
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A98V4N7DX232C)
-
-[Bitcoin](https://www.blockchain.com/btc/address/1NppzAZ7nLDXwvYK7vgJJUZBbkzHS6S6zX)
-
-## Designer
-Logo: [s-yous](https://github.com/s-yous)
 
 ## License
 [<img src="https://gnu.org/graphics/gplv3-127x51.png" 
   alt="GNU Public License v3">](https://www.gnu.org/licenses/gpl-3.0.html)
-
-## Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/SecScanQR%20Main.png)
-![Screenshot 2](https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/SecScanQR%20Generator.png)
-![Screenshot 3](https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/SecScanQR%20History.png)
 

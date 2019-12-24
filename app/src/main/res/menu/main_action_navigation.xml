@@ -24,6 +24,7 @@
     <item
         android:id="@+id/main_action_navigation_reset"
         android:icon="@drawable/ic_delete_24dp"
-        android:title="@string/title_reset" />
+        android:title="@string/title_reset"
+        android:visible="false" />
 
 </menu>

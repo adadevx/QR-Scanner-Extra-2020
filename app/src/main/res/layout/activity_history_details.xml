@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="?attr/backgroundcolor"
-    tools:context="de.t_dankworth.secscanqr.activities.HistoryDetailsActivity">
+    tools:context="de.t_dankworth.secscanqr.net.t_dankworth.secscanqr.activities.HistoryDetailsActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -32,7 +32,7 @@
 
     </LinearLayout>
 
-    <android.support.design.widget.BottomNavigationView
+    <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/history_action_navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

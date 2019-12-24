@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="?attr/backgroundcolor"
     android:orientation="vertical"
-    tools:context="de.t_dankworth.secscanqr.activities.generator.GenerateActivity"
+    tools:context="de.t_dankworth.secscanqr.net.t_dankworth.secscanqr.activities.generator.GenerateActivity"
     >
 
     <ListView
