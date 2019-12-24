@@ -85,8 +85,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,
-                WindowManager.LayoutParams.FLAG_SECURE);
         generalHandler = new GeneralHandler(this);
         generalHandler.loadTheme();
         setContentView(R.layout.activity_main);
@@ -95,7 +93,6 @@ public class MainActivity extends AppCompatActivity {
         MobileAds.initialize(this);
 
         BottomNavigationView main_navigation = (BottomNavigationView) findViewById(R.id.navigation);
-        BottomNavigationViewHelper.disableShiftMode(main_navigation);
         main_navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
         main_navigation.clearFocus();
 

@@ -15,7 +15,7 @@
         <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-6650612913041239~6138640935"/>
 
         <activity android:name="net.adadev.qrscanner2020.activities.ResultActivity" />
         <activity android:name="net.adadev.qrscanner2020.activities.ThirdPartyScannerActivity">
